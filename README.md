@@ -1,2 +1,3 @@
 # git_test
-testing for the odin project
+My first GitHub repo! 2023-01-23
+Hello Odin!
